@@ -1,0 +1,55 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\contentsline {chapter}{Declaration of Authorship}{iii}{section*.1}
+\contentsline {chapter}{Abstract}{v}{section*.2}
+\contentsline {chapter}{Acknowledgements}{vii}{section*.3}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.10}
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.11}
+\contentsline {section}{\numberline {1.2}Artistic Background}{1}{section.12}
+\contentsline {section}{\numberline {1.3}Artistic Aims}{1}{section.13}
+\contentsline {chapter}{\numberline {2}Research Methods}{3}{chapter.14}
+\contentsline {section}{\numberline {2.1}What}{3}{section.15}
+\contentsline {section}{\numberline {2.2}Why}{3}{section.16}
+\contentsline {section}{\numberline {2.3}Who}{3}{section.17}
+\contentsline {chapter}{\numberline {3}Project: Anatta}{5}{chapter.18}
+\contentsline {section}{\numberline {3.1}Initial Idea}{5}{section.19}
+\contentsline {subsection}{\numberline {3.1.1}First Concept}{5}{subsection.20}
+\contentsline {subsection}{\numberline {3.1.2}Participants}{5}{subsection.21}
+\contentsline {subsection}{\numberline {3.1.3}Roles}{5}{subsection.22}
+\contentsline {section}{\numberline {3.2}Development}{5}{section.23}
+\contentsline {subsection}{\numberline {3.2.1}Rehearsal}{5}{subsection.24}
+\contentsline {subsection}{\numberline {3.2.2}Technology}{5}{subsection.25}
+\contentsline {section}{\numberline {3.3}Result}{5}{section.26}
+\contentsline {section}{\numberline {3.4}Analysis}{5}{section.27}
+\contentsline {subsection}{\numberline {3.4.1}Feedback}{5}{subsection.28}
+\contentsline {chapter}{\numberline {4}Project: See What You Made Me Do}{7}{chapter.29}
+\contentsline {section}{\numberline {4.1}Initial Idea}{7}{section.30}
+\contentsline {subsection}{\numberline {4.1.1}First Concept}{7}{subsection.31}
+\contentsline {subsection}{\numberline {4.1.2}Participants}{7}{subsection.32}
+\contentsline {subsection}{\numberline {4.1.3}Roles}{7}{subsection.33}
+\contentsline {section}{\numberline {4.2}Development}{7}{section.34}
+\contentsline {subsection}{\numberline {4.2.1}Rehearsal}{7}{subsection.35}
+\contentsline {subsection}{\numberline {4.2.2}Technology}{7}{subsection.36}
+\contentsline {section}{\numberline {4.3}Result}{7}{section.37}
+\contentsline {section}{\numberline {4.4}Analysis}{7}{section.38}
+\contentsline {subsection}{\numberline {4.4.1}Feedback}{7}{subsection.39}
+\contentsline {chapter}{\numberline {5}Project: Untitled}{9}{chapter.40}
+\contentsline {section}{\numberline {5.1}Initial Idea}{9}{section.41}
+\contentsline {subsection}{\numberline {5.1.1}First Concept}{9}{subsection.42}
+\contentsline {subsection}{\numberline {5.1.2}Participants}{9}{subsection.43}
+\contentsline {subsection}{\numberline {5.1.3}Roles}{9}{subsection.44}
+\contentsline {section}{\numberline {5.2}Development}{9}{section.45}
+\contentsline {subsection}{\numberline {5.2.1}Rehearsal}{9}{subsection.46}
+\contentsline {subsection}{\numberline {5.2.2}Technology}{9}{subsection.47}
+\contentsline {section}{\numberline {5.3}Result}{9}{section.48}
+\contentsline {section}{\numberline {5.4}Analysis}{9}{section.49}
+\contentsline {subsection}{\numberline {5.4.1}Feedback}{9}{subsection.50}
+\contentsline {chapter}{\numberline {6}Justification and Limitations}{11}{chapter.51}
+\contentsline {chapter}{\numberline {7}Critical Reflection}{13}{chapter.52}
+\contentsline {section}{\numberline {7.1}Comparison with related work}{13}{section.53}
+\contentsline {section}{\numberline {7.2}Discussion of open issues}{13}{section.54}
+\contentsline {chapter}{\numberline {8}Conclusion}{15}{chapter.55}
+\contentsline {chapter}{\numberline {9}Vision for the future}{17}{chapter.56}
+\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{19}{appendix.57}
+\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{19}{section.58}
